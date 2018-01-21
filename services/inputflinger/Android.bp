@@ -26,7 +26,6 @@ cc_library_shared {
     ],
 
     shared_libs: [
-        "libbfqio",
         "libbinder",
         "libcrypto",
         "libcutils",
